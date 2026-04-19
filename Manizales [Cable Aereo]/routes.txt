@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+L1-ruta_001,acam,,Fundadores (centro) a Cambulos (Terminal de Transportes),,6,,,,,,
+L1-ruta_002,acam,,Cambulos (Terminal de Transportes) a Fundadores (centro),,6,,,,,,
+L3-ruta_001,acam,,Cable a Cambulos (Terminal de Transportes),,6,,,,,,
+L3-ruta_002,acam,,Cambulos (Terminal de Transportes) a Cable,,6,,,,,,
+L2-ruta_001,acam,,Villamaria (Parque Principal) a Cambulos (Terminal de Transportes),,6,,,,,,
+L2-ruta_002,acam,,Cambulos (Terminal de Transportes) a Villamaria (Parque Principal),,6,,,,,,

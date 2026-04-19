@@ -1,0 +1,8 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+L1-estacion_001,,Fundadores (centro),,5.067141,-75.511518,,,,,,1
+L1-estacion_002,,Betania (La Fuente),,5.05818,-75.508835,,,,,,1
+L1-estacion_003,,Cambulos (Terminal de Transportes),,5.050214,-75.506756,,,,,,1
+L3-estacion_001,,Fatima,,5.053697,-75.497521,,,,,,1
+L3-estacion_002,,Universidades,,5.055245,-75.491467,,,,,,1
+L3-estacion_003,,Cable,,5.056822,-75.486792,,,,,,1
+L2-estacion_001,,Villamaria (Parque Principal),,5.046185,-75.51206,,,,,,1

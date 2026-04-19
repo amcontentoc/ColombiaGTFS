@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+amcontentoc,https://github.com/amcontentoc,es,20260418,20270418,V1 [20260418],arley.contento@outlook.com,https://github.com/amcontentoc

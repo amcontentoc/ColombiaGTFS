@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+tarifa_001,3250,COP,1,,acam,
